@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 zmister/mrdoc:v9.1
 btpanel/baota:9.0_lts_lnmp
-xhongc/music_tag_web
+xhongc/music_tag_web:latest
