@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 zmister/mrdoc:v9.1
+btpanel/baota:9.0_lts_lnmp
