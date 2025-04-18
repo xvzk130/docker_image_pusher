@@ -8,3 +8,4 @@ zmister/mrdoc:v9.1
 btpanel/baota:9.0_lts_lnmp
 xhongc/music_tag_web:latest
 deluan/navidrome
+sameersbn/bind:9.16.1-20200524
